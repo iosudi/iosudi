@@ -1,15 +1,14 @@
+## YOOOO WASSUP ✌️
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oldss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-saudi-118562258/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iosudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iosudi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iosudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=iosudi&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<ul dir="auto"> 
+ <img align="right" alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxidzIwN2dxcDRreGVwZWhmdGV5cW9lbjdlMHA1Z3VobmF0cXRmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" style="width: 80%; display: inline-block;" />
+ <li>👋 Adel Saudi is here</li> 
+ <li>💻 Motivated Frontend Developer aspiring to master the Angular & React frameworks and I am always eager to learn, gain new experiences to enhance my professional skills.</li>
+ <li>🌱 I’m currently learning more about Nextjs</li>
+ <li>📫 How to reach me: <a href="mailto:iosudiii@gmail.com">iosudiii@gmail.com</a></li>
+</ul>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,github,nextjs,postman,react,ts,aws,redis,html,css" alt="Tools and Technologies" style="max-width: 80%;"/>
+</p>
